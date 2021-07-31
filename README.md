@@ -9,7 +9,11 @@ Given at [Women Who Code Python](https://www.womenwhocode.com/python) on July 17
 ### Speakers
 
 * Jessica Koubi: [LinkedIn](https://www.linkedin.com/in/jessicakoubi/) | [GitHub](https://github.com/jessicakoubi)
-* Bushra Alma: [LinkedIn](https://www.linkedin.com/in/bushraalmazloum/)
+* Bushra Alma: [LinkedIn](https://www.linkedin.com/in/bushraalmazloum/) | [GitHub](https://github.com/tech-wreck)
+
+### Recording
+
+Recording of the talk is available on YouTube [here](https://www.youtube.com/watch?v=E22aCb8ItR8)
 
 ### Slides
 
@@ -17,7 +21,7 @@ The slides for this talk can be found in the [slides](slides) directory in vario
 
 ### Case Study Video
 
-The video used for the case study is available on YouTube at the following URL: https://www.youtube.com/watch?v=eGUyT9_wpg0
+The video used for the case study is available on YouTube [here](https://www.youtube.com/watch?v=eGUyT9_wpg0)
 
 ## Additional Resources
 
